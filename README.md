@@ -3,9 +3,9 @@
 A new Flutter project.
 
 ## Getting S
-<img src="https://user-images.githubusercontent.com/113710907/195345297-f4754f58-1dbd-408d-9118-3046bfbe8ca3.jpg" width="500">
-<img src="https://user-images.githubusercontent.com/113710907/195345504-b053031c-4d28-4ced-ba2b-bdf82cff1171.jpg" width="500">
-<img src="https://user-images.githubusercontent.com/113710907/195345540-9316dfb7-2d42-46af-922b-2c670360eea5.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/113710907/195345297-f4754f58-1dbd-408d-9118-3046bfbe8ca3.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/113710907/195345504-b053031c-4d28-4ced-ba2b-bdf82cff1171.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/113710907/195345540-9316dfb7-2d42-46af-922b-2c670360eea5.jpg" width="400">
 
 
 tarted
