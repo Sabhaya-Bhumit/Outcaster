@@ -1,6 +1,8 @@
 # Cupertino Store
-![1665578965326](https://user-images.githubusercontent.com/113710907/195347375-8ec0d746-3f81-4338-8c38-d4b69a3ea57b.jpg)![1665578965335](https://user-images.githubusercontent.com/113710907/195347380-fe25ae5d-a052-47dd-8944-410a15eff6dc.jpg)
-![1665578965346](https://user-images.githubusercontent.com/113710907/195347392-77de39c3-3133-458b-a2bb-0437d864db89.jpg)
+<img src="https://user-images.githubusercontent.com/113710907/195347375-8ec0d746-3f81-4338-8c38-d4b69a3ea57b.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/113710907/195347380-fe25ae5d-a052-47dd-8944-410a15eff6dc.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/113710907/195347392-77de39c3-3133-458b-a2bb-0437d864db89.jpg" width="400">
+
 
 
 A new Flutter project.
