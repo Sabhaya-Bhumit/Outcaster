@@ -1,4 +1,4 @@
-# outcaster_1
+# SETTING APP
 
 A new Flutter project.
 
